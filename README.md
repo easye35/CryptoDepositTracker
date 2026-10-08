@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Google Apps Script](https://img.shields.io/badge/Made%20with-Google%20Apps%20Script-4285F4.svg)](https://developers.google.com/apps-script)
-[![Release](https://img.shields.io/github/v/release/REPLACE_WITH_YOUR_GITHUB_USER/cryptodeposit-tracker)](../../releases)
+[![Release](https://img.shields.io/github/v/release/easye35/CryptoDepositTracker)](https://github.com/easye35/CryptoDepositTracker/releases)
 
 A free Google Apps Script that scans your Gmail for Bitcoin deposit notification emails and logs them to a Google Sheet. It runs entirely inside your own Google account: no server, no license key, and nothing is sent anywhere.
 
