@@ -1,0 +1,28 @@
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+client_secret*.json
+service-account*.json
+
+# clasp (Apps Script CLI) auth and project bindings
+.clasprc.json
+.clasp.json
+
+# Dependencies and build output
+node_modules/
+dist/
+
+# Archives and stray files
+*.zip
+*.log
+*.bak
+*.tmp
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
