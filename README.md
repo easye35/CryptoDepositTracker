@@ -8,7 +8,7 @@ A free Google Apps Script that scans your Gmail for Bitcoin deposit notification
 
 Looking for a hosted version with managed setup, more wallet providers, and automatic updates? See [Bitcoin deposit tracking for Google Sheets](https://cryptodeposittracker.com) at cryptodeposittracker.com.
 
-![Reconciliation dashboard (sample data)](reconciliation.png)
+![Reconciliation dashboard (sample data)](docs/reconciliation-sample.png)
 
 ## Related resources
 
